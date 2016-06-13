@@ -70,3 +70,6 @@ Otherwise solutions is:
 sum of cn(NINDEX) + cn(NINDEX-2) + cn(NINDEX-4) + ... + cn(0) or cn(1) depending NINDEX % 2 is even or odd
 
 It should be each 2, because by doing * -1 it becomes the same number.
+
+Reffer to : http://fishi.devtail.com/weblog/2015/06/25/computing-large-binomial-coefficients-modulo-prime-non-prime/
+Also the PDF file with this project.
